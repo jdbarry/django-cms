@@ -1,4 +1,4 @@
-name: django-cms
+name: django
 framework: python
 mem: 128M
 env:
